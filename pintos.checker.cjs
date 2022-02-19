@@ -9,7 +9,7 @@
   * @returns {boolean} retorna true si el test
   * debe pasar*/
 function threads(grade, total) {
-  return grade >= 0
+  return grade >= 20
 }
 
 /** Condición que se debe cumplir para que
